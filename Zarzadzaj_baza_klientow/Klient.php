@@ -16,7 +16,6 @@ class Klient {
         $this->_imie=$name;
         $this->_nazwisko=$surname;
         $this->_pesel=$pes;
-
     }
 
 
