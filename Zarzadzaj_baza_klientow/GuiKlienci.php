@@ -1,17 +1,27 @@
 <?php
 
-include_once"Baza.php";
 
-$b=new Baza();
-$b->sqlConnect();
-$result = $b->sqlQuery('SELECT * FROM klienci');
+include_once"Zarzadzaj_baza_klientow.php";
+
+$zbk=new Zarzadzaj_baza_klientow();
 
 
-if (mysqli_num_rows($result) > 0) {
+?>
 
-    while($row = mysqli_fetch_assoc($result)) {
-        echo "id: " . $row["ID"]. ", Name: " . $row["imie"]. ", Nazwisko: " . $row["nazwisko"]. "<br>";
-    }
-} else {
-    echo "0 results";
-}
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>id</th>
+        <th>imie</th>
+        <th>nazwisko</th>
+      </tr>
+    </thead>
+    <tbody>
+   <?php
+
+    $zbk->PobierzListe();
+
+    ?>
+
+    </tbody>
+  </table>

@@ -13,11 +13,10 @@ class Baza
 {
     public $query;
     private $result;
-    private $records_rows;
-    private $records;
+
     private $dbHost;
     private $dbUser;
-    private $dbHaslo;
+    public $dbHaslo;
     private $dbName;
     private $connection;
 
@@ -64,7 +63,7 @@ class Baza
 
         $this->query = $query;
 
-        // $this -> result=$this->connection->query($this->query);
+        //$this -> result=$this->connection->query($this->query);
         if ($this->result=mysqli_query($this->connection, $this->query)) {
 
            return $this->result;
