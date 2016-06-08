@@ -72,9 +72,50 @@ class FormularzKlient  {
 
 
     }
+
+
+    private function zapis($id){
+
+
+        if($_POST['imie'] && $_POST['nazwisko'] && $_POST['pesel']){
+            $this->_imie=$_POST['imie'];
+            $this->_nazwisko=$_POST['nazwisko'];
+            $this->_pesel=$_POST['pesel'];
+
+
+
+        }else{
+            echo 'Uzupełnij formularz';
+        }
+
+        $this->_baza=new Baza();
+        $sql='UPDATE klienci SET imie=\''.$this->_imie.'\',
+    nazwisko=\''.$this->_nazwisko.'\' WHERE id='.$id.'';
+
+        $this->_baza->sqlConnect();
+
+        $result=$this->_baza->sqlQuery($sql);
+
+
+
+
+
+
+
+    }
     
 
-    public function edycja(){
+    public function edycja($id,$imie,$nazwisko,$pesel){
+
+        echo '<form action="" method="post">
+                Imię: <input type="text" name="imie" value="'.$imie.'"><br>
+                Nazwisko: <input type="text" name="nazwisko"  value="'.$nazwisko.'"><br>
+                 Pesel: <input type="text" name="pesel"  value="'.$pesel.'"><br>
+                <input type="submit" name="zapisz">
+                </form>';
+
+
+        if(isset($_POST['zapisz'])) $this->zapis($id);
 
     }
 
@@ -91,6 +132,23 @@ class FormularzKlient  {
       if(isset($_POST['Dodaj'])) $this->validate();
 
     }
+
+
+    public function usuwanie($id){
+
+        $this->_baza=new Baza();
+        $sql='UPDATE klienci SET imie=\''.$this->_imie.'\',
+    nazwisko=\''.$this->_nazwisko.'\' WHERE id='.$id.'';
+
+        $this->_baza->sqlConnect();
+
+        $result=$this->_baza->sqlQuery($sql);
+
+
+
+    }
+
+
 
 
 

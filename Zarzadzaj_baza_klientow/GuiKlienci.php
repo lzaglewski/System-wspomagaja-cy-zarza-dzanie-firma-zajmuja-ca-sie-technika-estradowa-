@@ -10,17 +10,14 @@ $zbk=new Zarzadzaj_baza_klientow();
 
 <button type="button" onclick="location.href='./index.php?var=klient&dodaj=true'" class="btn btn-default btn-sm">Dodaj klienta</button>
 <?php
-if($_GET[dodaj]!='true') {
+if($_GET[dodaj]!='true' && !isset($_GET[szczegoly]) ) {
 
     ?>
 
     <table class="table table-striped">
         <thead>
         <tr>
-            <th>id</th>
-            <th>imie</th>
-            <th>nazwisko</th>
-            <th>pesel</th>
+
         </tr>
         </thead>
         <tbody>
@@ -35,9 +32,49 @@ if($_GET[dodaj]!='true') {
     </table>
 
 <?php
-}else{
+}
+if($_GET[dodaj]=='true'){
 
-    $zbk->Formularz('dodawanie');
+    $zbk->Formularz('dodawanie',null);
+
+}
+
+if($_GET[edycja]=='true') {
+
+    $zbk->Formularz('edycja',$_GET['id']);
+}
+
+
+if($_GET[usun]=='true') {
+
+    $zbk->Formularz('edycja',$_GET['id']);
+}
+
+if($_GET[szczegoly]=='true'){
+?>
+<table class="table table-striped">
+        <thead>
+        <tr>
+            <td>id</td>
+            <td>imie</td>
+            <td>nazwisko</td>
+            <td>pesel</td>
+
+        </tr>
+        </thead>
+        <tbody>
+        <?php
+
+
+        $zbk->Szczegolowo($_GET['id']);
+
+        ?>
+
+</tbody>
+</table>
+
+<?php
+
 
 
 }

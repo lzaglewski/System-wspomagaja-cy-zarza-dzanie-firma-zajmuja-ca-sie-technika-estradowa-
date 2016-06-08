@@ -38,73 +38,55 @@
       <file leaf-file-name="GuiKlienci.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.208333" vertical-offset="133" max-vertical-offset="735">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state vertical-scroll-proportion="-5.7083335" vertical-offset="568" max-vertical-offset="1290">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
               <folding>
-                <marker date="1465347092000" expanded="true" signature="326:477" placeholder="..." />
-                <marker date="1465347092000" expanded="true" signature="339:460" placeholder="..." />
-                <marker date="1465347092000" expanded="true" signature="493:494" placeholder="..." />
-                <marker date="1465347092000" expanded="true" signature="309:334" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356858000" expanded="true" signature="802:1035" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="818:970" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="831:953" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="986:1035" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormularzKlient.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29900333" vertical-offset="0" max-vertical-offset="1710">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <marker date="1465349654000" expanded="true" signature="301:313" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:365" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:382" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:384" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:386" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:407" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:409" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:411" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:429" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:430" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="301:692" placeholder="INSERT INTO ..." />
-                <marker date="1465349654000" expanded="true" signature="708:735" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="708:766" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465349654000" expanded="true" signature="1443:1703" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zarzadzaj_baza_klientow.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Zarzadzaj_baza_klientow.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.333334" vertical-offset="28" max-vertical-offset="990">
-              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.6013289" vertical-offset="838" max-vertical-offset="1440">
+              <caret line="80" column="76" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
               <folding>
-                <element signature="n#__constuct#0;n#Zarzadzaj_baza_klientow#0;n#!!top" expanded="false" />
-                <marker date="1465347092000" expanded="true" signature="543:564" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465347092000" expanded="true" signature="692:693" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356604000" expanded="true" signature="595:616" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356604000" expanded="true" signature="1234:1255" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356604000" expanded="true" signature="1234:1270" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356604000" expanded="true" signature="1569:1893" placeholder="..." />
+                <marker date="1465356604000" expanded="true" signature="1569:2010" placeholder="..." />
+                <marker date="1465356604000" expanded="true" signature="1725:1892" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormularzKlient.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.958334" vertical-offset="1678" max-vertical-offset="2580">
+              <caret line="144" column="45" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
+              <folding>
+                <marker date="1465356858000" expanded="true" signature="301:429" placeholder="INSERT INTO ..." />
+                <marker date="1465356858000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356858000" expanded="true" signature="1677:1701" placeholder="UPDATE klien..." />
+                <marker date="1465356858000" expanded="true" signature="1677:1703" placeholder="UPDATE klien..." />
+                <marker date="1465356858000" expanded="true" signature="1677:1736" placeholder="UPDATE klien..." />
+                <marker date="1465356858000" expanded="true" signature="1677:1757" placeholder="UPDATE klien..." />
+                <marker date="1465356858000" expanded="true" signature="1677:1770" placeholder="UPDATE klien..." />
+                <marker date="1465356858000" expanded="true" signature="1677:1777" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465356858000" expanded="true" signature="1983:2045" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="1983:2130" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="1983:2185" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="1983:2305" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="2451:2711" placeholder="..." />
+                <marker date="1465356858000" expanded="true" signature="2861:2954" placeholder="UPDATE klien..." />
               </folding>
             </state>
           </provider>
@@ -113,35 +95,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.75" vertical-offset="0" max-vertical-offset="1245">
+            <state vertical-scroll-proportion="-6.9583335" vertical-offset="643" max-vertical-offset="1245">
               <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PHP/\Baza" pinned="false" current-in-tab="false">
-        <entry file="uml://PHP/\Baza">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>PHP</ID>
-              <OriginalElement>\Baza</OriginalElement>
-              <nodes>
-                <node x="-27.0" y="-128.0">\Baza</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-195.0" y="-5.0" />
-              <SelectedNodes>
-                <node>\Baza</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Constants</Category>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -173,16 +129,17 @@
         <option value="$PROJECT_DIR$/Zarządzaj baza klientów/Zarzadzaj_baza_klientow.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_zleceniami/Zarzadzaj_zleceniami.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Zarzadzaj_magazynem.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Sprzet.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Gui.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/GuiMagazyn.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Baza.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php" />
       </list>
     </option>
@@ -426,16 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zarzadzaj_zleceniami.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="e#6#88#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/Zarzadzaj_magazynem.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="602">
@@ -476,33 +423,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/GuiZlecenia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/GuiMagazyn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -513,45 +436,6 @@
         <state vertical-scroll-proportion="0.49833888" vertical-offset="0" max-vertical-offset="602">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77242523" vertical-offset="0" max-vertical-offset="602">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="420">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.75" vertical-offset="0" max-vertical-offset="1245">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-          <folding>
-            <element signature="e#6#88#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.208333" vertical-offset="133" max-vertical-offset="735">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <marker date="1465347092000" expanded="true" signature="326:477" placeholder="..." />
-            <marker date="1465347092000" expanded="true" signature="339:460" placeholder="..." />
-            <marker date="1465347092000" expanded="true" signature="493:494" placeholder="..." />
-            <marker date="1465347092000" expanded="true" signature="309:334" placeholder="SELECT * FRO..klienci..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,11 +463,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zarzadzaj_zleceniami.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.75" vertical-offset="0" max-vertical-offset="1245">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.07475083" vertical-offset="0" max-vertical-offset="602">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/GuiZlecenia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="225" max-vertical-offset="855">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <marker date="1465351288000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..faktury..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3986711" vertical-offset="0" max-vertical-offset="705">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,58 +523,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.333334" vertical-offset="28" max-vertical-offset="990">
-          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1110">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="420">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.7083335" vertical-offset="568" max-vertical-offset="1290">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding>
-            <element signature="n#__constuct#0;n#Zarzadzaj_baza_klientow#0;n#!!top" expanded="false" />
-            <marker date="1465347092000" expanded="true" signature="543:564" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465347092000" expanded="true" signature="692:693" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465356858000" expanded="true" signature="802:1035" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="818:970" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="831:953" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="986:1035" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Zarzadzaj_baza_klientow">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Zarzadzaj_baza_klientow</OriginalElement>
+          <nodes>
+            <node x="" y="">\Zarzadzaj_baza_klientow</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="94.5" y="14.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Constants</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\FormularzKlient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\FormularzKlient</OriginalElement>
+          <nodes>
+            <node x="" y="">\FormularzKlient</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="65.5" y="14.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.75" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.9583335" vertical-offset="643" max-vertical-offset="1245">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29900333" vertical-offset="0" max-vertical-offset="1710">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state vertical-scroll-proportion="-16.958334" vertical-offset="1678" max-vertical-offset="2580">
+          <caret line="144" column="45" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
           <folding>
-            <marker date="1465349654000" expanded="true" signature="301:313" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:361" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:365" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:382" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:384" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:386" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:407" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:409" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:411" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:429" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:430" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="301:692" placeholder="INSERT INTO ..." />
-            <marker date="1465349654000" expanded="true" signature="708:735" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:736" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="708:766" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465349654000" expanded="true" signature="1443:1703" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="301:429" placeholder="INSERT INTO ..." />
+            <marker date="1465356858000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465356858000" expanded="true" signature="1677:1701" placeholder="UPDATE klien..." />
+            <marker date="1465356858000" expanded="true" signature="1677:1703" placeholder="UPDATE klien..." />
+            <marker date="1465356858000" expanded="true" signature="1677:1736" placeholder="UPDATE klien..." />
+            <marker date="1465356858000" expanded="true" signature="1677:1757" placeholder="UPDATE klien..." />
+            <marker date="1465356858000" expanded="true" signature="1677:1770" placeholder="UPDATE klien..." />
+            <marker date="1465356858000" expanded="true" signature="1677:1777" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465356858000" expanded="true" signature="1983:2045" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="1983:2130" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="1983:2185" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="1983:2305" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="2451:2711" placeholder="..." />
+            <marker date="1465356858000" expanded="true" signature="2861:2954" placeholder="UPDATE klien..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6013289" vertical-offset="838" max-vertical-offset="1440">
+          <caret line="80" column="76" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
+          <folding>
+            <marker date="1465356604000" expanded="true" signature="595:616" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465356604000" expanded="true" signature="1234:1255" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465356604000" expanded="true" signature="1234:1270" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465356604000" expanded="true" signature="1569:1893" placeholder="..." />
+            <marker date="1465356604000" expanded="true" signature="1569:2010" placeholder="..." />
+            <marker date="1465356604000" expanded="true" signature="1725:1892" placeholder="..." />
           </folding>
         </state>
       </provider>
