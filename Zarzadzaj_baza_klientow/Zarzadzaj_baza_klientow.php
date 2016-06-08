@@ -15,7 +15,21 @@ class Zarzadzaj_baza_klientow{
     private $sql;
 
 
-    public function Zarzadzaj_baza_klientow(){
+    public function __constuct(){
+
+    }
+
+
+    public  function Formularz($akcja)
+    {
+        include_once 'FormularzKlient.php';
+
+        $form = new FormularzKlient();
+
+        if($akcja=='dodawanie'){$form->dodawanie();}
+
+        if($akcja=='educja'){$form->edycja();}
+
 
     }
 
@@ -35,7 +49,7 @@ class Zarzadzaj_baza_klientow{
         if (mysqli_num_rows($this->result) > 0) {
 
             while($row = mysqli_fetch_assoc($this->result)) {
-                echo "<tr><td>". $row["ID"]."</td><td>" . $row["imie"]. "</td><td>" . $row["nazwisko"]. "</td></tr>";
+                echo "<tr><td>". $row["ID"]."</td><td>" . $row["imie"]. "</td><td>" . $row["nazwisko"]. "</td><td>" . $row["pesel"]. "</td></tr>";
             }
         } else {
             echo "0 results";
