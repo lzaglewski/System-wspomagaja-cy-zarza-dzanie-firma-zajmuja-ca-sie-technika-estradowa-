@@ -43,12 +43,10 @@
 
     <div class="buttony" >
         <div class="menu">
-            <button type="button" onclick="location.href='./index.php?var=klient'" class="btn btn-default btn-sm">Zarządzaj baza klientów</button>
-            <button type="button" onclick="location.href='./index.php?var=faktura'" class="btn btn-default btn-sm">Zarządzaj fakturami</button>
-             <button type="button" onclick="location.href='./index.php?var=zlecenie'" class="btn btn-default btn-sm">Zarządzaj zleceniami</button>
-
-             <button type="button" onclick="location.href='./index.php?var=magazyn'" class="btn btn-default btn-sm">Zarządzaj magazynem</button>
-
+        <button type="button" onclick="location.href='./index.php?var=zlecenie'" class="btn btn-default btn-sm">Zarządzaj zleceniami</button>
+        <button type="button" onclick="location.href='./index.php?var=klient'" class="btn btn-default btn-sm">Zarządzaj baza klientów</button>
+        <button type="button" onclick="location.href='./index.php?var=magazyn'" class="btn btn-default btn-sm">Zarządzaj magazynem</button>
+        <button type="button" onclick="location.href='./index.php?var=faktura'" class="btn btn-default btn-sm">Zarządzaj fakturami</button>
         </div>
     </div>
 

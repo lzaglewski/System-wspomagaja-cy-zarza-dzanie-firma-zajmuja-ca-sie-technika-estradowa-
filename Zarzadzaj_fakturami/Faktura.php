@@ -3,12 +3,12 @@
 
 class Faktura {
 
-    private $_numer;
-    private $_data;
-    private $_sprzedawca;
-    private $_nabywca;
-    private $_towar;
-    private $_towar_cena;
+    protected $_numer;
+    protected $_data;
+    protected $_sprzedawca;
+    protected $_nabywca;
+    protected $_towar;
+    protected $_towar_cena;
 
 
     public function __construct($numer,$data,$sprzedawca,$nabywca,$towar,$cena){

@@ -11,31 +11,12 @@ class Klient {
     private $_nazwisko;
     private $_pesel;
 
-    /**
-     * @param mixed $pesel
-     */
-    public function setPesel($pesel)
-    {
-        $this->_pesel = $pesel;
+    public function __construct($name,$surname,$pes){
+
+        $this->_imie=$name;
+        $this->_nazwisko=$surname;
+        $this->_pesel=$pes;
     }
-
-    /**
-     * @param mixed $nazwisko
-     */
-    public function setNazwisko($nazwisko)
-    {
-        $this->_nazwisko = $nazwisko;
-    }
-
-    /**
-     * @param mixed $imie
-     */
-    public function setImie($imie)
-    {
-        $this->_imie = $imie;
-    }
-
-
 
 
 

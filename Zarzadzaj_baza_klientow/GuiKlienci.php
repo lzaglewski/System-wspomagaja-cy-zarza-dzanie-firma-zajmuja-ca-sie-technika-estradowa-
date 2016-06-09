@@ -47,7 +47,7 @@ if($_GET[edycja]=='true') {
 
 if($_GET[usun]=='true') {
 
-    $zbk->Formularz('usun',$_GET['id']);
+    $zbk->Formularz('edycja',$_GET['id']);
 }
 
 if($_GET[szczegoly]=='true'){

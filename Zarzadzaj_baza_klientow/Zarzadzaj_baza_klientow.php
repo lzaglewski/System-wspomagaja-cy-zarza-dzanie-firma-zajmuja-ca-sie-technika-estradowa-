@@ -15,7 +15,6 @@ class Zarzadzaj_baza_klientow{
     private $sql;
 
 
-
     public function __constuct(){
 
     }
@@ -30,7 +29,6 @@ class Zarzadzaj_baza_klientow{
         if($akcja=='dodawanie'){$form->dodawanie();}
 
         if($akcja=='edycja'){$form->edycja($id,$_GET['imie'],$_GET['nazwisko'],$_GET[pesel]);}
-        if($akcja=='usun'){$form->usuwanie($id);}
 
 
     }
