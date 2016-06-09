@@ -25,11 +25,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Zarzadzaj_baza_klientow.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-45.0" vertical-offset="0" max-vertical-offset="1470">
+              <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Klient.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="420">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="705">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuiMagazyn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/GuiMagazyn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormularzKlient.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2740864" vertical-offset="15" max-vertical-offset="2670">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+                <marker date="1465476472000" expanded="true" signature="302:430" placeholder="INSERT INTO ..." />
+                <marker date="1465476472000" expanded="true" signature="709:764" placeholder="SELECT * FRO..klienci..." />
+                <marker date="1465476472000" expanded="true" signature="1688:1781" placeholder="UPDATE klien..." />
+                <marker date="1465476472000" expanded="true" signature="1994:2316" placeholder="..." />
+                <marker date="1465476472000" expanded="true" signature="2462:2722" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuiFaktury.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.833333" vertical-offset="574" max-vertical-offset="1200">
+              <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormularzMagazyn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/FormularzMagazyn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="50.541668" vertical-offset="1483" max-vertical-offset="2085">
+              <caret line="23" column="20" selection-start-line="17" selection-start-column="3" selection-end-line="23" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sprzet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/Sprzet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,86 +105,37 @@
       <file leaf-file-name="GuiKlienci.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.7083335" vertical-offset="568" max-vertical-offset="1290">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-              <folding>
-                <marker date="1465356858000" expanded="true" signature="802:1035" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="818:970" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="831:953" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="986:1035" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zarzadzaj_baza_klientow.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6013289" vertical-offset="838" max-vertical-offset="1440">
-              <caret line="80" column="76" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
-              <folding>
-                <marker date="1465356604000" expanded="true" signature="595:616" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465356604000" expanded="true" signature="1234:1255" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465356604000" expanded="true" signature="1234:1270" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465356604000" expanded="true" signature="1569:1893" placeholder="..." />
-                <marker date="1465356604000" expanded="true" signature="1569:2010" placeholder="..." />
-                <marker date="1465356604000" expanded="true" signature="1725:1892" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormularzKlient.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.958334" vertical-offset="1678" max-vertical-offset="2580">
-              <caret line="144" column="45" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
-              <folding>
-                <marker date="1465356858000" expanded="true" signature="301:429" placeholder="INSERT INTO ..." />
-                <marker date="1465356858000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465356858000" expanded="true" signature="1677:1701" placeholder="UPDATE klien..." />
-                <marker date="1465356858000" expanded="true" signature="1677:1703" placeholder="UPDATE klien..." />
-                <marker date="1465356858000" expanded="true" signature="1677:1736" placeholder="UPDATE klien..." />
-                <marker date="1465356858000" expanded="true" signature="1677:1757" placeholder="UPDATE klien..." />
-                <marker date="1465356858000" expanded="true" signature="1677:1770" placeholder="UPDATE klien..." />
-                <marker date="1465356858000" expanded="true" signature="1677:1777" placeholder="SELECT * FRO..klienci..." />
-                <marker date="1465356858000" expanded="true" signature="1983:2045" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="1983:2130" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="1983:2185" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="1983:2305" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="2451:2711" placeholder="..." />
-                <marker date="1465356858000" expanded="true" signature="2861:2954" placeholder="UPDATE klien..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.9583335" vertical-offset="643" max-vertical-offset="1245">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1290">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Baza.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Baza.php">
+      <file leaf-file-name="Faktura.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.75" vertical-offset="0" max-vertical-offset="1245">
-              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="285" max-vertical-offset="1110">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zarzadzaj_fakturami.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1260">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding>
-                <element signature="e#6#88#0#PHP" expanded="true" />
+                <marker date="1465475618000" expanded="true" signature="301:322" placeholder="SELECT * FRO..faktury..." />
+                <marker date="1465475618000" expanded="true" signature="915:951" placeholder="SELECT * FRO..faktury..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,18 +146,21 @@
         <option value="$PROJECT_DIR$/Zarządzaj magazynem/Sprzet.php" />
         <option value="$PROJECT_DIR$/Zarządzaj baza klientów/Zarzadzaj_baza_klientow.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_zleceniami/Zarzadzaj_zleceniami.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Zarzadzaj_magazynem.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Sprzet.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Gui.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/GuiMagazyn.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Baza.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php" />
-        <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_zleceniami/Zlecenie.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/FormularzMagazyn.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_zleceniami/FormularzZlecenie.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php" />
+        <option value="$PROJECT_DIR$/Zarzadzaj_magazynem/Zarzadzaj_magazynem.php" />
         <option value="$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php" />
       </list>
     </option>
@@ -149,7 +170,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="723" />
@@ -177,17 +197,18 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową " />
+              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową " />
+              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -197,7 +218,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową " />
+              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -211,7 +232,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową " />
+              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -225,7 +246,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową " />
+              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -239,7 +260,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową " />
+              <option name="myItemId" value="System wspomagający zarządzanie firmą zajmującą się techniką estradową" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -253,15 +274,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Zarzadzaj_magazynem" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Zarządzaj baza klientów" />
     </key>
@@ -290,6 +314,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -302,6 +331,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bfc64030-f873-4ce6-be0c-0d5a0d765df3" name="Default" comment="" />
@@ -312,30 +344,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1280" height="723" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19609375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846716" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21171875" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846716" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -383,13 +415,149 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/Zarzadzaj_magazynem.php">
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zlecenie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="602">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="1470">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="705">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="2595">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#6#88#0#PHP" expanded="false" />
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1465476472000" expanded="true" signature="302:430" placeholder="INSERT INTO ..." />
+            <marker date="1465476472000" expanded="true" signature="709:764" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465476472000" expanded="true" signature="1688:1781" placeholder="UPDATE klien..." />
+            <marker date="1465476472000" expanded="true" signature="1994:2316" placeholder="..." />
+            <marker date="1465476472000" expanded="true" signature="2462:2722" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="630">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1245">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="688" max-vertical-offset="1290">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1110">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zlecenie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1230">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1455">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="2550">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1465476472000" expanded="true" signature="302:430" placeholder="INSERT INTO ..." />
+            <marker date="1465476472000" expanded="true" signature="709:764" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465476472000" expanded="true" signature="1688:1781" placeholder="UPDATE klien..." />
+            <marker date="1465476472000" expanded="true" signature="1994:2316" placeholder="..." />
+            <marker date="1465476472000" expanded="true" signature="2462:2722" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1245">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="688" max-vertical-offset="1290">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1110">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -406,11 +574,12 @@
           <settings layout="Hierarchic Group" zoom="1.0" x="-204.0" y="-25.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Fields</Category>
-            <Category>Constants</Category>
             <Category>Constructors</Category>
+            <Category>Fields</Category>
             <Category>Methods</Category>
+            <Category>Constants</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
@@ -419,83 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165315">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/GuiMagazyn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/Sprzet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49833888" vertical-offset="0" max-vertical-offset="602">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://PHP/\Klient">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>PHP</ID>
-          <OriginalElement>\Klient</OriginalElement>
-          <nodes>
-            <node x="" y="">\Klient</node>
-            <node x="" y="">\FormularzKlient</node>
-            <node x="" y="">\Zarzadzaj_baza_klientow</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="251.5" y="-766.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constants</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zarzadzaj_zleceniami.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07475083" vertical-offset="0" max-vertical-offset="602">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/GuiZlecenia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="225" max-vertical-offset="855">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding>
-            <marker date="1465351288000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..faktury..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3986711" vertical-offset="0" max-vertical-offset="705">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding>
-            <element signature="e#6#88#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,41 +606,13 @@
             <node>\Baza</node>
           </SelectedNodes>
           <Categories>
-            <Category>Constants</Category>
-            <Category>Fields</Category>
             <Category>Constructors</Category>
+            <Category>Fields</Category>
             <Category>Methods</Category>
+            <Category>Constants</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1110">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="420">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.7083335" vertical-offset="568" max-vertical-offset="1290">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding>
-            <marker date="1465356858000" expanded="true" signature="802:1035" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="818:970" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="831:953" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="986:1035" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,18 +622,19 @@
           <ID>PHP</ID>
           <OriginalElement>\Zarzadzaj_baza_klientow</OriginalElement>
           <nodes>
-            <node x="" y="">\Zarzadzaj_baza_klientow</node>
+            <node x="226.0" y="-232.0">\Zarzadzaj_baza_klientow</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="94.5" y="14.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-180.0" y="-45.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Fields</Category>
             <Category>Constructors</Category>
-            <Category>Constants</Category>
+            <Category>Fields</Category>
             <Category>Methods</Category>
+            <Category>Constants</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
@@ -580,74 +645,271 @@
           <ID>PHP</ID>
           <OriginalElement>\FormularzKlient</OriginalElement>
           <nodes>
-            <node x="" y="">\FormularzKlient</node>
+            <node x="173.0" y="-276.0">\FormularzKlient</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="65.5" y="14.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-209.0" y="-45.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Fields</Category>
-            <Category>Constants</Category>
             <Category>Constructors</Category>
+            <Category>Fields</Category>
             <Category>Methods</Category>
+            <Category>Constants</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Zarzadzaj_fakturami">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Zarzadzaj_fakturami</OriginalElement>
+          <nodes>
+            <node x="136.0" y="-121.0">\Zarzadzaj_fakturami</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-194.0" y="-45.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Faktura">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Faktura</OriginalElement>
+          <nodes>
+            <node x="117.0" y="-154.0">\Faktura</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-220.0" y="-165.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Klient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Klient</OriginalElement>
+          <nodes>
+            <node x="238.0" y="40.0">\Klient</node>
+            <node x="-291.0" y="3.0">\FormularzKlient</node>
+            <node x="-21.0" y="411.0">\Zarzadzaj_baza_klientow</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-180.0" y="329.0" />
+          <SelectedNodes>
+            <node>\Zarzadzaj_baza_klientow</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Zlecenie">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Zlecenie</OriginalElement>
+          <nodes>
+            <node x="-261.0" y="-256.0">\Zlecenie</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-215.0" y="-45.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zlecenie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="345" max-vertical-offset="1230">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.875" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/GuiZlecenia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/FormularzZlecenie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="2700">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="e#7#89#0#PHP" expanded="true" />
+            <marker date="1465472828000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465472828000" expanded="true" signature="-1:-1" placeholder="UPDATE klien..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Baza.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.75" vertical-offset="0" max-vertical-offset="1245">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+        <state vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_zleceniami/Zarzadzaj_zleceniami.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.9583335" vertical-offset="643" max-vertical-offset="1245">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/Zarzadzaj_magazynem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625" vertical-offset="405" max-vertical-offset="1380">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <marker date="1465476227000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465476227000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465476227000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/GuiMagazyn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/FormularzMagazyn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="50.541668" vertical-offset="1483" max-vertical-offset="2085">
+          <caret line="23" column="20" selection-start-line="17" selection-start-column="3" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_magazynem/Sprzet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Faktura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="285" max-vertical-offset="1110">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/GuiFaktury.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.833333" vertical-offset="574" max-vertical-offset="1200">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_fakturami/Zarzadzaj_fakturami.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1260">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1465475618000" expanded="true" signature="301:322" placeholder="SELECT * FRO..faktury..." />
+            <marker date="1465475618000" expanded="true" signature="915:951" placeholder="SELECT * FRO..faktury..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/GuiKlienci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1290">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-45.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Klient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="705">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/FormularzKlient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.958334" vertical-offset="1678" max-vertical-offset="2580">
-          <caret line="144" column="45" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.2740864" vertical-offset="15" max-vertical-offset="2670">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <marker date="1465356858000" expanded="true" signature="301:429" placeholder="INSERT INTO ..." />
-            <marker date="1465356858000" expanded="true" signature="708:763" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465356858000" expanded="true" signature="1677:1701" placeholder="UPDATE klien..." />
-            <marker date="1465356858000" expanded="true" signature="1677:1703" placeholder="UPDATE klien..." />
-            <marker date="1465356858000" expanded="true" signature="1677:1736" placeholder="UPDATE klien..." />
-            <marker date="1465356858000" expanded="true" signature="1677:1757" placeholder="UPDATE klien..." />
-            <marker date="1465356858000" expanded="true" signature="1677:1770" placeholder="UPDATE klien..." />
-            <marker date="1465356858000" expanded="true" signature="1677:1777" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465356858000" expanded="true" signature="1983:2045" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="1983:2130" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="1983:2185" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="1983:2305" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="2451:2711" placeholder="..." />
-            <marker date="1465356858000" expanded="true" signature="2861:2954" placeholder="UPDATE klien..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zarzadzaj_baza_klientow/Zarzadzaj_baza_klientow.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6013289" vertical-offset="838" max-vertical-offset="1440">
-          <caret line="80" column="76" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
-          <folding>
-            <marker date="1465356604000" expanded="true" signature="595:616" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465356604000" expanded="true" signature="1234:1255" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465356604000" expanded="true" signature="1234:1270" placeholder="SELECT * FRO..klienci..." />
-            <marker date="1465356604000" expanded="true" signature="1569:1893" placeholder="..." />
-            <marker date="1465356604000" expanded="true" signature="1569:2010" placeholder="..." />
-            <marker date="1465356604000" expanded="true" signature="1725:1892" placeholder="..." />
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1465476472000" expanded="true" signature="302:430" placeholder="INSERT INTO ..." />
+            <marker date="1465476472000" expanded="true" signature="709:764" placeholder="SELECT * FRO..klienci..." />
+            <marker date="1465476472000" expanded="true" signature="1688:1781" placeholder="UPDATE klien..." />
+            <marker date="1465476472000" expanded="true" signature="1994:2316" placeholder="..." />
+            <marker date="1465476472000" expanded="true" signature="2462:2722" placeholder="..." />
           </folding>
         </state>
       </provider>

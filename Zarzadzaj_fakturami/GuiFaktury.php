@@ -16,6 +16,10 @@ $zf=new Zarzadzaj_fakturami();
 
 ?>
 
+<?php
+if($_GET[dodaj]!='true' && !isset($_GET[szczegoly]) ) {
+
+?>
 
 
     <table class="table table-striped">
@@ -37,5 +41,39 @@ $zf=new Zarzadzaj_fakturami();
         </tbody>
     </table>
 
+<?php
+}
+?>
 
+
+<?php
+if($_GET[szczegoly]=='true'){
+    ?>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <td>id</td>
+            <td>imie</td>
+            <td>nazwisko</td>
+            <td>Klient</td>
+            <td>sprzęt</td>
+            <td>suma</td>
+
+        </tr>
+        </thead>
+        <tbody>
+        <?php
+
+
+        $zf->Szczegolowo($_GET['id']);
+
+        ?>
+
+        </tbody>
+    </table>
+
+
+<?php
+}
+    ?>
 
