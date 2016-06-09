@@ -15,6 +15,7 @@ class FormularzKlient  {
 
 
 
+
     public function __construct(){
 
     }
@@ -49,7 +50,9 @@ class FormularzKlient  {
         if (mysqli_num_rows($result) > 0) {
             echo'Klient juz istnieje';
         }
-        else {$this->dodajKlienta();}
+        else {$this->dodajKlienta();
+
+        }
 
     }
 
@@ -137,19 +140,17 @@ class FormularzKlient  {
     public function usuwanie($id){
 
         $this->_baza=new Baza();
-        $sql='UPDATE klienci SET imie=\''.$this->_imie.'\',
-    nazwisko=\''.$this->_nazwisko.'\' WHERE id='.$id.'';
+        $sql='DELETE * FROM klienci WHERE ID='.$id.'';
 
-        $this->_baza->sqlConnect();
+        echo $sql;
 
-        $result=$this->_baza->sqlQuery($sql);
-
-
+        if ($this->_baza->sqlQuery($sql) === TRUE) {
+            echo "Usunięto rekord";
+        } else {
+            echo "Error: " . $sql . "<br>" .$this->_baza->error;
+        }
 
     }
-
-
-
 
 
     public function getImie()
